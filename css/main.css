@@ -48,7 +48,7 @@ img {
   left: 0;
   z-index: 999999;
   background: #fff;
-  background-image: url("../images/logo.png");
+  background-image: url("../Keto/images/logo.png");
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -324,7 +324,7 @@ img {
 .section {
   position: relative;
   height: 100vh;
-  background-image: url("../images/booking_bg.png");
+  background-image: url("../Keto/images/booking_bg.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
